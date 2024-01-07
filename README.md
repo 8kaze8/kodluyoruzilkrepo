@@ -5,3 +5,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ```
 git clone https://github.com/8kaze8/kodluyoruzilkrepo.git
 ```
+## Usage
+```
+console.log("cd kodluyoruzilkrepo
+code .")
