@@ -8,7 +8,7 @@ git clone https://github.com/8kaze8/kodluyoruzilkrepo.git
 ## Usage
 ```
 cd kodluyoruzilkrepo
-code ."
+code .
 ```
 ## Contributing
 
